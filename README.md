@@ -41,7 +41,7 @@ Pin any Polygon-related data on IPFS may it be balances, deployed smart contract
 <!-- ABOUT THE Oracle -->
 ## About The Oracle
 
-This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://polygonscan.com/">Polygonscan</a>. All the documentation provided is by Polygonscan is function with our oracle.
+This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://polygonscan.com/">Polygonscan</a>. All the documentation provided is by Polygonscan is functional with our oracle.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
